@@ -42,8 +42,8 @@ VQC circuits were additionally validated on three IBM Quantum hardware backends
 
 ```
 ├── QuantumAndGeostatistics_reproducible_pipeline.ipynb   # Main analysis notebook
-├── requirements.txt                                       # Python dependencies
-├── figures/                                                # Output figures (Fig. 1-10)
+├── requirements.txt                                      # Python dependencies
+├── figures01-10                                          # Output figures (Fig. 1-10)
 └── README.md
 ```
 
