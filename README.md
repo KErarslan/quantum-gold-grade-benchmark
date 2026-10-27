@@ -2,7 +2,6 @@
 
 **Kaan Erarslan** — Department of Mining Engineering, Kütahya Dumlupınar University, Turkey
 ORCID: [0000-0002-1875-4009](https://orcid.org/0000-0002-1875-4009)
-Manuscript under review, *Mathematical Geosciences* (Springer)
 
 ## Overview
 
