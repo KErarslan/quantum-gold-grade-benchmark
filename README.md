@@ -12,10 +12,18 @@ Networks (QNN), Quantum Kernel Ridge Regression (QKRR), and Quantum Support Vect
 (QSVM) — against classical geostatistical and machine learning methods (exponential Kriging,
 Random Forest, MLP) for three-dimensional gold grade estimation.
 
-The dataset is 20 RC drillholes (28 assay intervals) from the Kalgoorlie Gold Project
-Northern Zone, Western Australia (Riversgold Limited, ASX:RGL), with coordinates modified
-by isotropic scaling for confidentiality. Spatial autocorrelation structure was confirmed
-preserved under this modification via a Mantel test (Spearman r = 0.34, p < 0.001).
+The dataset comprises 20 reverse circulation (RC) drill holes (28 assay intervals) from 
+the Kalgoorlie Orogenic Gold deposit in Western Australia (similar to those of Riversgold Limited, ASX:RGL); 
+for confidentiality purposes, the coordinates have been altered using an isotropic scaling method. 
+A Mantel test (Spearman r = 0.34, p < 0.001) confirmed that the spatial autocorrelation structure 
+remained unaffected and was preserved following this transformation.
+
+Disclaimer
+The drilling data contained in this database has been synthetically generated or modified for 
+scientific/algorithmic purposes—drawing inspiration from the geological parameters of 
+orogenic gold deposits in the m-Kalgoorlie region—and does not represent actual, 
+proprietary mining data from any company operating in the area.
+
 
 ## Key results
 
