@@ -81,9 +81,9 @@ history; an active IBM Quantum account and CRN instance are required.
 
 ## Data availability
 
-The modified dataset is available from the corresponding author upon reasonable request,
-subject to a confidentiality agreement with Riversgold Limited (ASX:RGL). Original data
-source: Riversgold Limited (2022) Quarterly Activities Report — Kalgoorlie Gold Project.
+A synthetic Kalgoorlie orogenic gold dataset, derived from/modified based on data from Riversgold Limited (ASX:RGL), 
+is available from the corresponding author upon reasonable request. Original data source: 
+Riversgold Limited (2022) Quarterly Activities Report — Kalgoorlie Gold Project.
 
 ## Citation
 
